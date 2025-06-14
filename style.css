@@ -60,3 +60,10 @@ blockquote{
     margin: 20px 0;
     font-style: italic;
 }
+.navbar, .content{
+    opacity: 0;
+    animation: fade 1s ease-in-out forwards;
+}
+@keyframes fade{
+    to { opacity: 3;}
+}
