@@ -17,3 +17,9 @@
     border-radius: 6px;
     cursor: pointer;
 }
+body{
+    margin: 0;
+    font-family: 'Segoe UI' sans-serif;
+    background: linear-gradient(to bottom right, #0a3c3c, #2e9);
+    color: #222;
+}
