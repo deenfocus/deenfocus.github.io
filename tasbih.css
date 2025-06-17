@@ -1,0 +1,22 @@
+.Dhikr-container{
+    background: linear-gradient(to bottom right, #004d00, #b38600);
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    max-width: 300px;
+    margin: 30px auto;
+    color: white;
+}
+.Dhikr-container button{
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #ffffff33;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    border: ridge;
+    border-radius: 100%;
+    border-color: transparent;
+}
